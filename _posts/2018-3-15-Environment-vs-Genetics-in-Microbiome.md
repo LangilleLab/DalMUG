@@ -1,6 +1,7 @@
 ---
 published: true
 post_snippet: This group examined the contribution of host genetics to microbiome composition and concluded that the gut microbiome overall is not heritable, but instead is predominantly shaped by environmental factors.
+title: Environment vs Genetics in Microbiome
 ---
  
 #### [Rothschild et al., 2018, "Environment dominates over host genetics in shaping human gut microbiota." Nature](https://www.nature.com/articles/nature25973)
