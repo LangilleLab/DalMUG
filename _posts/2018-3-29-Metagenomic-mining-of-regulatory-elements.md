@@ -6,6 +6,9 @@ post_snippet: Johns et al., use a high throughput GFP reporting screen to test t
 
 #### [Johns et al. 2018. Metagenomic mining of regulatory elements enables programmable species-selective gene expression. Nature Methods.](https://www.nature.com/articles/nmeth.4633)
 
+_Summarized from DalMUG group discussion and written by:
+**Jacob Nearing**_
+
 ### Summary
 
 In this study Johns et al., use a high throughput GFP reporting screen to test the regulatory features of over 29,000 unidirectional intergenic regions from 184 different prokaryotic genomes. The group uses three different organisms, *Bacillus subtilis*, *Escherichia coli*, and *Pseudomonas aeruginosa*, to test expression levels using both RNA-seq and FACS-seq. Of these three organisms, *B. subtilis* was found to be the least capable of using regulatory sequences from other species whereas *P. aeruginosa* was the most capable of using these sequences. Furthermore they characterized several metrics such as GC content that could be used to predict if a regulatory sequence would be universally expressed by all three different species.
