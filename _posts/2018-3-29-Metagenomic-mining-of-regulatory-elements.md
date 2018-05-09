@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mining for regulatory sequence gold in the genomes of prokaryotes 
+title: Mining for regulatory sequence gold in the genomes of prokaryotes
 post_snippet: Johns et al., use a high throughput GFP reporting screen to test the regulatory features of over 29,000 unidirectional intergenic regions from 184 different prokaryotic genomes.
 ---
 
