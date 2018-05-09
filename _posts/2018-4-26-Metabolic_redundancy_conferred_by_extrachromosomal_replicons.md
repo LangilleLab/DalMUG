@@ -1,6 +1,6 @@
 ---
 title: Metabolic redundancy conferred by extrachromosomal replicons 
-post_snippet: ...the replicons confer a substantial amount of redundancy in essential genes found in the genome. They also highlight insights that would not have been possible without also performing _in silico_ metabolic reconstruction.
+post_snippet: ...the replicons confer a substantial amount of redundancy in essential genes found in the genome. They also highlight insights that would not have been possible without also performing in silico metabolic reconstruction.
 published: true
 ---
 
