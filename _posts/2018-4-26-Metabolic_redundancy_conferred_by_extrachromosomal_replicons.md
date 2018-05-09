@@ -31,7 +31,7 @@ would not have been possible without also performing _in silico_ metabolic recon
 * Compared their results to _Rhizobium leguminosarum_, for which there is also a published Tn-seq dataset and found little overlap in their results overall
 * Based on _in silico_ double KOs of a gene from chromosome and a gene from replicons they found 14% of chromosomal genes had predicted negative phenotype, which indicates high metabolic redundancy between chromosome and replicons
 * 1/3 of reactions in reconstructed core metabolism were identified as not having an effect on growth based on Tn-seq
-* They used the uncharacterized essential genes identified through Tn-seq to propose which genes were responsible for the predicted reactions (of unknown enzymes) their reconstruction of core metabolism
+* They used the uncharacterized essential genes identified through Tn-seq to propose which genes were responsible for the predicted reactions (of unknown enzymes) in their reconstruction of core metabolism
 
 ### Points of Confusion
 * The authors acknowledge that there could be problems with the constitutive promoters on the transposons, but it would be good to know what kind of off-target effects this would be expected to have
