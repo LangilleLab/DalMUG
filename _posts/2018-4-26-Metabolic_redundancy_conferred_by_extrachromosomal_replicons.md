@@ -1,6 +1,6 @@
 ---
 title: Metabolic redundancy conferred by extrachromosomal replicons 
-post_snippet: ...the replicons confer a substantial amount of redundancy in essential genes found in the genome. They also highlight insights that would not have been possible without also performing in silico metabolic reconstruction.
+post_snippet: ...the replicons confer a substantial amount of redundancy in essential genes found in the genome. They also highlight insights that would not have been possible without also performing _in silico_ metabolic reconstruction.
 published: true
 ---
 
@@ -19,7 +19,7 @@ in the common soil bacteria _Sinorhizobium meliloti_ affected gene essentiality.
 to be non-essential. The authors used Tn-seq to identify essential and growth-promoting genes while changing two variables: 
 (1) whether the replicons are present or not and (2) whether the bacteria were grown in rich or defined media. They found that 
 the replicons confer a substantial amount of redundancy in essential genes found in the genome. They also highlight insights that 
-would not have been possible without also performing in silico metabolic reconstruction.
+would not have been possible without also performing _in silico_ metabolic reconstruction.
 
 ### Points of Interest
 * Interesting to know background on the relatively low percentages of essential genes that overlap across species/strains
@@ -29,7 +29,7 @@ would not have been possible without also performing in silico metabolic reconst
 * Tested 4 genes predicted to produce no growth and they all agreed with the Tn-seq data, which was one example of a number of reassuring sanity checks
 * Interesting that some fitness benefits of losing replicons could be due to having less DNA to synthesize
 * Compared their results to _Rhizobium leguminosarum_, for which there is also a published Tn-seq dataset and found little overlap in their results overall
-* Based on in silico double KOs of a gene from chromosome and a gene from replicons they found 14% of chromosomal genes had predicted negative phenotype, which indicates high metabolic redundancy between chromosome and replicons
+* Based on _in silico_ double KOs of a gene from chromosome and a gene from replicons they found 14% of chromosomal genes had predicted negative phenotype, which indicates high metabolic redundancy between chromosome and replicons
 * 1/3 of reactions in reconstructed core metabolism were identified as not having an effect on growth based on Tn-seq
 * They used the uncharacterized essential genes identified through Tn-seq to propose which genes were responsible for the predicted reactions (of unknown enzymes) their reconstruction of core metabolism
 
