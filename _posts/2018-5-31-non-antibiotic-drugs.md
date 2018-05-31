@@ -1,6 +1,6 @@
 ---
 title: Non-antibiotic drugs have an extensive impact on the human gut microbiome
-post_snippet: ... analyzed the growth of 40 representative isolates of the gut microbiome under a high-throughput growth inhibition screen with 1,197 compounds.
+post_snippet: Maier et al., analyzed the growth of 40 representative isolates of the gut microbiome under a high-throughput growth inhibition screen with 1,197 compounds, finding that 24% of human-targeted drugs had inhibitory effects on gut commensals.
 published: true
 ---
 
