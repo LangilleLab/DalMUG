@@ -1,5 +1,5 @@
 ---
-title: Gut Microbiome composition Predicts Infection Risk During Chemotherapy in Children With Acute Lymphoblastic Leukemia
+title: Gut Microbiome Composition Predicts Infection Risk During Chemotherapy in Children With Acute Lymphoblastic Leukemia
 post_snippet: In this report Hakim, et al., show that the composition of the gut microbiome could be used to predict if pediatric acute lymphoblastic leukemia (ALL) patients will have an infection throughout chemotherapy.
 published: true
 ---
