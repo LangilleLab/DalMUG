@@ -1,0 +1,30 @@
+---
+title: TwinsUK study shows novel associations with gut microbiota and common diseases and prescription medications
+post_snippet: The researchers harness the potential of this deeply phenotyped population by focussing on common diseases and prescription medications used. Several novel associations were described, in addition to replicated associations from previous work across IBD and T2DM. 
+---
+
+[Jackson et al., 2018. Gut microbiota associations with common diseases and prescription medications in a population-based cohort. Nature Communications.](https://www.nature.com/articles/s41467-018-05184-7)
+
+_This is a summary of our DalMUG journal club discussion of the above paper written by [**Casey Jones*](https://twitter.com/CaseyMAJones)._
+
+### Summary
+The TwinsUK registry comprises of over 13,000 twins from across the UK and has led to several gene discoveries, epidemiological insights, and now a broad look at how the human microbiome affects human health. Of these 13,000 twin pairs, microbiome data is available for 2737 individuals. This cohort is predominately female (89%) and older aged. 
+
+Jackson et al. harness the potential of this deeply phenotyped population by focussing on common diseases and prescription medications used. They analyze gut microbiota associations with 38 common diseases and 51 medications. Several novel associations were described, in addition to replicated associations from previous work across IBD and T2DM. 
+
+Our group was overall pleased with the work by Jackson et al. on this TwinsUK cohort, but were confused on a few methodological points outlined below.   
+
+### Points of Interest
+* Overall a good look epidemiologically at how the microbiome affects human health.
+* Useful for future directions of microbiome research and quite to the point. Not an overly complicated meta-analysis. 
+* Would be great to have this information in a database in the future. 
+
+### Points of confusion
+* A great deal of phenotypic data was not collected from the subject at the time of microbiome sampling. Is the phenotypic information therefore accurate/representative of the microbiome sample it is being associated with? This is especially concerning for prescription history where its effect may be acute. The authors acknowledge this point at the start of the discussion. 
+
+* We’re concerned that the heuristic selection of microbiota marker traits presented in this study is overly simplistic. Minimizing over 500,000 OTUs into 206 traits, then 68 marker traits based on correlation of their abundances may be oversimplified. It may not be sound to collapse a taxon into an unrelated phylogenetic taxon just by correlation (e.g. Akkermansia into an unrelated taxon). It may be better to call them “taxa clusters” rather than assigning taxonomic names. 
+
+* Why did chloroplast remain in the results? 
+
+* We discussed whether FDR correction is really needed when we are confirming associations from previously published work, for instance in IBD. Gavin suggested that we could potentially use greater FDR cut-offs for previously identified features. 
+  
