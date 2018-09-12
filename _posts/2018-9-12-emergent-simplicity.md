@@ -1,6 +1,6 @@
 ---
-_title: Exploring microbial community assembly on single carbon sources
-_post_snippet: … community assembly is reproducible at high taxonomic levels … and there is widespread cross-feeding between genera that explains the community assembly
+title: Exploring microbial community assembly on single carbon sources
+post_snippet: … community assembly is reproducible at high taxonomic levels … and there is widespread cross-feeding between genera that explains the community assembly
 ---
 
 [Goldford et al. 2018. Emergent simplicity in microbial community assembly. Science.](http://science.sciencemag.org/content/361/6401/469)
