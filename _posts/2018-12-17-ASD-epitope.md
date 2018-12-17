@@ -1,6 +1,6 @@
 ---
 published: true
-post_snippet: ...identified 34 gut-microbiota associated epitopes (MEs) and demonstrated that these were abnormal in the gut of ASD children in terms of composition and was in turn associated with abnormal IgA levels.
+post_snippet: ...identified 34 gut-microbiota associated epitopes and demonstrated that these were abnormal in the gut of ASD children in terms of composition and was in turn associated with abnormal IgA levels.
 title: Gut microbiota-associated epitopes in children with autism spectrum disorders
 ---
 
