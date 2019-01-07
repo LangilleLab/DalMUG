@@ -1,26 +1,31 @@
 ---
-title: Exploring microbial community assembly on single carbon sources
-post_snippet: … community assembly is reproducible at high taxonomic levels … and there is widespread cross-feeding between genera that explains the community assembly
+title: Mice undergoing experimental colitis have distinct bacteriophage populations
+post_snippet: Altered viral populations have been observed in adults with IBD, but there has yet to be controlled experiments of phage dynamics in experimental mice models of IBD. In this study, Duerkop et al. find differences in bacteriophage after induction of colitis in mice. 
 ---
 
-[Goldford et al. 2018. Emergent simplicity in microbial community assembly. Science.](http://science.sciencemag.org/content/361/6401/469)
+[Duerkop et al., 2018. Murine colitis reveals a disease-associated bacteriophage community. Nature Microbiology.](https://www.nature.com/articles/s41564-018-0210-y)
 
-_This is a summary of our DalMUG journal club discussion of this paper written by **[Gavin Douglas](https://twitter.com/gavin_m_douglas)**_
+_This is a summary of our DalMUG journal club discussion of this paper written by **[Casey Jones](https://twitter.com/CaseyMAJones)**_
 
 ### Summary
-The take-home messages of this paper are that community assembly is reproducible at high taxonomic levels (on simple media) and there is widespread cross-feeding between genera that explains the community assembly. Certain microbial ecologists present at our discussion felt that these take-home messages were unsurprising and that they echoed many previous findings, especially in the aquatic microbial ecology literature. Nonetheless, the scientific logic of this paper was very clear and this paper represents great exposure for microbial ecology.
+The dynamics of bacteriophage in inflammatory bowel diseases (IBD) in the gut aren’t as well understood as that of bacteria, yet there is [estimated](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3975094/) to be nearly as many phage as there are bacteria in the gut. Phage may play a role in gut homeostasis by modifying bacterial populations or by [providing protection](https://www.ncbi.nlm.nih.gov/pubmed/23690590/) of the gut mucosa. Altered viral populations have been observed in [adults with IBD](https://www.ncbi.nlm.nih.gov/pubmed/25619688), but there has yet to be controlled experiments of phage dynamics in experimental mice models. 
+
+In this study, Breck Duerkop and colleagues attempt to define the gut virus community in a mouse model of T-cell mediated colitis. They sequence both whole metagenome and virus-like particle (VLP) enriched samples in colitic mice and saline-injected controls. To define viral communities in the gut, they curated their own virome database of 1104 contigs based on their presence in the VLP samples compared to controls. 
+
+Through inference of bacterial composition by 16S rRNA gene reconstruction using [phyloFlash](https://github.com/HRGV/phyloFlash), they found an increased abundance of Proteobacteria at 42 days post-Colitis induction, coinciding with increased levels of phage infecting certain Proteobacteria genera. They also found considerable overlap between the phage contigs from mice and adult patients with IBD from a [previous study](https://www.ncbi.nlm.nih.gov/pubmed/25619688). 
+
+We were pleased with the findings of the study, but had some concerns as outlined below. Overall it seems that mouse models may be useful for studying the virome of IBD. 
+
 
 ### Points of Interest
-* Clear demonstration of reproducible families assembling on simple C sources (and that this isn’t the case at finer resolutions)
-* Interesting to see tSNE with PICRUSt predictions. Would be nice to know how typical microbial ecology ordination methods separated the C sources
-* Secretion and not cell lysis seems to be the main way that by-products are transferred, based on phase-contrast microscopy
-* Very clear experiments demonstrating capability for cross-feeding between all 4 isolated pairwise microbes
-* The extension to MacArthur’s consumer-resource model (that allows by-products to re-enter the resource pool) was a convincing way of arguing that taxonomic stability can arise based on the stable cross-feeding of microbes.
+* Mapping whole metagenome reads to virally-enriched reads is a novel way of defining presence of viruses and merits further validation 
+* The overlap of human and murine contigs substantiates the use of murine models to study IBD 
 
 
 ### Points of Confusion
-* Would have been interesting to look at original community to see if they could grow on the byproducts
-* Interesting use of ternary plots, but their explanation of how to read it differs from examples online, such as here: https://brocku.ca/earthsciences/people/gfinn/petrology/ternary5.gif
-* Also not sure why Pseudomonadaceae in their example is 0.36 based on the dotted-line… Looks like 0.25 to us
-* Not surprising to see the reproducibility of family-level relative abundances in their first experiments. It’s well-known that you will get similar microbes using a selective media
-* Since _Pseudomonas_ is a famous generalist it’s also not surprising it can survive off of the by-products so well
+* Having only three mice in each treatment group may not have sufficient power
+* How many VLP reads were thrown out from mapping to contigs from germ-free mice? 
+* Why not use [Kraken](https://ccb.jhu.edu/software/kraken/) instead of phyloFlash (16S inference) approach?
+* We found the use of a one-way analysis of variance in Figure 1c not overly statistically convincing. 
+* How was a “core” virome defined? 
+* Why were Microviridae genomes from NCBI not used in addition to the Caudovirales? These non-tailed phage were [recently shown](https://www.ncbi.nlm.nih.gov/pubmed/30169455) to be lower in abundance in Crohn’s Disease patients versus controls.
