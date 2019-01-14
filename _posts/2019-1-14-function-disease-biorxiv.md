@@ -11,8 +11,8 @@ _This is a summary of our DalMUG journal club discussion of this paper written b
 ### Summary
 This pre-print was motivated by two trends:
 
-(1) Microbiome studies normally focus on single diseases and
-(2) Most meta-analyses of microbiome studies have focused on taxa
+1. Microbiome studies normally focus on single diseases
+2. Most meta-analyses of microbiome studies have focused on taxa
 
 To address these limitations, Armour et al. analyzed over 2000 metagenomics samples from 8 studies, which represented a range of diseases. Our journal club enjoyed reading this pre-print since we believe more meta-analyses are needed in this area. There were a number of sections that we believe could be clarified or could benefit from further analyses; since this is a pre-print hopefully the feedback below is helpful!
 
