@@ -1,12 +1,14 @@
 ---
-title: American Gut: an Open Platform for Citizen Science Microbiome Research 
-post_snippet: Stemming from the Earth Microbiome Project, McDonald et al. employ citizen-scientists to provide microbiome samples for deeper comparison of human gut vs environmental microbiome diversity, human stool metabolomics and the influence of overgrowth during room temperature shipping on correlation analysis. 
+title: American Gut: An Open Platform for Citizen Science Microbiome Research
+
+post_snippet: Stemming from the Earth Microbiome Project, McDonald et al. employ citizen-scientists to provide microbiome samples for deeper comparison of human gut vs environmental microbiome diversity, human stool metabolomics and the influence of overgrowth during room temperature shipping on correlation analysis.
+
 published: true
 ---
 
 [McDonald et al., 2018. American Gut: an open platform for citizen science microbiome research. mSystems.]( http://msystems.asm.org/content/3/3/e00031-18)
 
-_This is a summary of our DalMUG journal club discussion of the above paper written by [**Emily Lamoureux**]._
+_This is a summary of our DalMUG journal club discussion of the above paper written by **Emily Lamoureux**._
 
 ### Summary
  
