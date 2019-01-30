@@ -6,7 +6,7 @@ post_snippet: We enjoyed reading this paper as it showed a clear clinical use of
 [Tamburini et al. 2018. Precision identification of diverse bloodstream pathogens in the gut microbiome. Nature Medicine.](https://www.nature.com/articles/s41591-018-0202-8)
 
 
-_This is a summary of our DalMUG journal club discussion of this paper written by Jacob Nearing
+This is a summary of our DalMUG journal club discussion of this paper written by Jacob Nearing
 
 ### Summary
 
