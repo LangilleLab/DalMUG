@@ -1,6 +1,6 @@
 ---
-_title: Using human genetics to determine the direction of causality in a microbiome study 
-_post_snippet: “Typically microbiome studies can only claim to detect associations … in this case the authors use “Mendelian Randomization”, which theoretically can determine whether a given association is causal.”
+title: Using human genetics to determine the direction of causality in a microbiome study 
+post_snippet: “Typically microbiome studies can only claim to detect associations … in this case the authors use “Mendelian Randomization”, which theoretically can determine whether a given association is causal.”
 ---
 
 [Sanna et al. 2019. Causal relationships among the gut microbiome, short-chain fatty acids and metabolic diseases. Nature Genetics.](https://www.nature.com/articles/s41588-019-0350-x) 
