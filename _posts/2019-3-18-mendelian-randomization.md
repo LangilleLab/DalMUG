@@ -5,7 +5,7 @@ post_snippet: “Typically microbiome studies can only claim to detect associati
 
 [Sanna et al. 2019. Causal relationships among the gut microbiome, short-chain fatty acids and metabolic diseases. Nature Genetics.](https://www.nature.com/articles/s41588-019-0350-x) 
 
-This is a summary of our DalMUG journal club discussion of this paper written by [Gavin Douglas](www.gavindouglas.ca).
+This is a summary of our DalMUG journal club discussion of this paper written by [Gavin Douglas](http://www.gavindouglas.ca).
 
 ### Summary
 
