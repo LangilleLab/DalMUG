@@ -11,7 +11,7 @@ This is a summary of our DalMUG journal club discussion of this paper written by
 
 This paper focused on determining the links between human genetic variants, gut microbiota, and fecal short-chain fatty acid (SCFA) levels.
 Typically microbiome studies can only claim to detect associations between features or disease states of interest when studying human
-cohorts. However, in this case the authors used “Mendelian Randomization” (https://en.wikipedia.org/wiki/Mendelian_randomization), which
+cohorts. However, in this case the authors used [Mendelian Randomization](https://en.wikipedia.org/wiki/Mendelian_randomization), which
 theoretically can determine whether a given association is _causal_. This technique confused us and we haven’t entirely wrapped our heads
 around it so take the following explanation with a grain of salt. The key assumption of the approach is that genetic variants are
 distributed randomly in a given population. If this is true then confounding factors affecting a disease or clinical phenotype should be
