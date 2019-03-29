@@ -1,6 +1,6 @@
 ---
-_title: Extensive Unexplored Human Microbiome Diversity
-_post_snippet: Many microbes in the human microbiome remain unknown. This issue is especially pervasive for individuals on non-Western diets since they are underrepresented in microbiome studies.
+title: Extensive Unexplored Human Microbiome Diversity
+post_snippet: Many microbes in the human microbiome remain unknown. This issue is especially pervasive for individuals on non-Western diets since they are underrepresented in microbiome studies.
 ---
 
 [Pasolli et al. 2019. Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle. Cell.](https://www.sciencedirect.com/science/article/pii/S0092867419300017?via%3Dihub)
