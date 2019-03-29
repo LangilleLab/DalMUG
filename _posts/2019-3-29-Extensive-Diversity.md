@@ -1,5 +1,5 @@
 ---
-title: Extensive Unexplored Human Microbiome Diversity
+title: Extensive unexplored human microbiome diversity
 post_snippet: Many microbes in the human microbiome remain unknown. This issue is especially pervasive for individuals on non-Western diets since they are underrepresented in microbiome studies.
 ---
 
