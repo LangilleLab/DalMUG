@@ -1,6 +1,6 @@
 This repository contains the content for the dalmug.org website.
 
-To add a blog post you need to simply create a new file within the `/_posts/` directory and it has to be named YEAR-MM-DD-Name-of-Post.md. For example `2017-10-27-Comparative-Metagenomics-of-Blastocystis.md`. You should also write the title in the below section and make sure that the file ends with the ".md" extension. Also, note that italics, bold, and other formatting settings will not be carried over if you copy the text from elsewhere (but you can do that formatting in markdown as well!).
+To add a blog post you need to simply create a new file within the `/_posts/` directory and it has to be named YEAR-MM-DD-Name-of-Post.md. For example `2017-10-27-Comparative-Metagenomics-of-Blastocystis.md`. This should be the date that you post the blog post and not the date the journal club was held. You should also write the title in the below section and make sure that the file ends with the ".md" extension. Also, note that italics, bold, and other formatting settings will not be carried over if you copy the text from elsewhere (but you can do that formatting in markdown as well!).
 
 Once you make the new .md file you need to place:
 ```
