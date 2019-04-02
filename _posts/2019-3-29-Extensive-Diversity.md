@@ -27,7 +27,7 @@ uncharacterized microbes.
 * Since many of these taxa have never been identified before except through amplicon sequencing, how accurate are the assembly quality metrics?
 
 ### Author Feedback
-The lead author Edoardo Pasolli gave some nice feedback on our points of confusion above. See the twitter thread here:
+The lead author Edoardo Pasolli gave some nice feedback on our points of confusion above. See the Twitter thread here:
 
 <ul>
 <li>
