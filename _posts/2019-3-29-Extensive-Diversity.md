@@ -29,9 +29,5 @@ uncharacterized microbes.
 ### Author Feedback
 The lead author Edoardo Pasolli gave some nice feedback on our points of confusion above. See the Twitter thread here:
 
-<ul>
-<li>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks for the nice summary! Just to clarify your points: 1) the genomes could be used for comparative genomics (figs. 3-4-5 are sort of examples) and for integrating databases for mapping-based approaches</p>&mdash; Edoardo Pasolli (@epasolli) <a href="https://twitter.com/epasolli/status/1112968451977633793?ref_src=twsrc%5Etfw">April 2, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</li>
-  
