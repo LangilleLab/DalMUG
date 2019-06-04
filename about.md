@@ -19,8 +19,8 @@ Email: dalmug@googlegroups.com
 
 ### Funding and Support
 
-DalMUG is funded by and is a part of the centre for [Comparative Genomics and Evolutionary Bioinformatics (CGEB)](http://cgeb.dal.ca/) and is organized by [Dr. Morgan Langille](http://morganlangille.com/).
+DalMUG is organized by [Dr. Morgan Langille](http://morganlangille.com/).
 
-If you have any questions about DalMUG or are having trouble joining the mailing list you can contact [morgan.g.i.langille@dal.ca](mailto:morgan.g.i.langille@dal.ca)
+If you have any questions about DalMUG or are having trouble joining the mailing list you can contact [morgan.langille@dal.ca](mailto:morgan.langille@dal.ca)
 
 
