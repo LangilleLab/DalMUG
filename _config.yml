@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/LangilleLab/DalMUG/master/images/dalmu
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: morgan.g.i.langille@dal.ca
+  email: morgan.langille@dal.ca
   facebook:
   flickr:
   github: LangilleLab/DalMUG
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: betascience
+  twitter: search?f=tweets&vertical=default&q=dalmug&src=typd
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
