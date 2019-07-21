@@ -29,7 +29,7 @@ feature or set of features. We enjoyed discussing this paper and we are convince
 
 ### Points of Confusion
 
-**Note that the lead author Jamie Morton has written a detailed blog post clarifying all of the questions below ([link](https://mortonjt.github.io/probable-bug-bytes/probable-bug-bytes/reference-frames/))**.
+**Note that the lead author Jamie Morton has written a detailed blog post clarifying most of the below questions ([link](https://mortonjt.github.io/probable-bug-bytes/probable-bug-bytes/reference-frames/))**.
 
 - The major question we had was how reproducibly would different researchers select reference frames and to what degree would that alter the results. The authors give some suggestions for how to choose reference frames, but we are concerned that figuring out the ideal reference frame will be impossible in most cases and would also be susceptible to p-hacking.
 
