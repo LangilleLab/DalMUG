@@ -28,6 +28,9 @@ feature or set of features. We enjoyed discussing this paper and we are convince
 - The atopic dermatitis example is also very convincing that reference frames provide more reliable findings overall.
 
 ### Points of Confusion
+
+**Note that the lead author Jamie Morton has written a detailed blog post clarifying all of the questions below ([link](https://mortonjt.github.io/probable-bug-bytes/probable-bug-bytes/reference-frames/))**.
+
 - The major question we had was how reproducibly would different researchers select reference frames and to what degree would that alter the results. The authors give some suggestions for how to choose reference frames, but we are concerned that figuring out the ideal reference frame will be impossible in most cases and would also be susceptible to p-hacking.
 
 - It’s unclear what the consensus in the field is regarding measuring microbial load to convert relative abundances to absolute abundances. The authors make a strong argument for the need for improved CoDa methods especially for environments where determining microbial load is difficult and for pre-existing samples. However, for most future projects determining the total microbial load per sample would avoid the problems described in this paper.
