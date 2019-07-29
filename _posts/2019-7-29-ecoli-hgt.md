@@ -19,7 +19,7 @@ Pang and Lercher took a bioinformatics approach to investigate these possibiliti
 
 
 ### Points of Interest
-- Clear description of the immense metabolic diversity across E. coli strains.
+- Clear description of the immense metabolic diversity across _E. coli_ strains.
 
 - Used GLOOME to infer the patterns of gene gain and loss across the strain lineages.
 
