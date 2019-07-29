@@ -41,6 +41,6 @@ Pang and Lercher took a bioinformatics approach to investigate these possibiliti
 
 - The italicized sentence from the paper below is very interesting, but we’re not totally sure how to interpret it - does it mean that intermediate transfers of a complex trait also always occurred in the same genomic region?
 
-_Note that every single one of these apparently complex phenotypic innovations could instead have been bestowed on the immediate ancestor of the successive DNA acquisitions through a single <30-kb DNA segment presently found in one of the other extant _E. coli_ strains._
+_Note that every single one of these apparently complex phenotypic innovations could instead have been bestowed on the immediate ancestor of the successive DNA acquisitions through a single <30-kb DNA segment presently found in one of the other extant E. coli strains._
 
 - A clearer breakdown of what the simulated environments consisted of would have been useful to better evaluate the methods.
