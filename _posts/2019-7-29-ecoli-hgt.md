@@ -27,7 +27,7 @@ Pang and Lercher took a bioinformatics approach to investigate these possibiliti
 
 - Interesting way to compute all possible metabolic pathways - simply combine all of the networks together and compute a super-metabolic network.
 
-- Based on the theoretically possible transfers - only 2.4% of new phenotypes and 7.4% of yield improvements required the acquisition of multiple DNA segments (i.e. bigger than 30kb separate).
+- Based on the theoretically possible transfers - only 2.4% of new phenotypes and 7.4% of yield improvements required the acquisition of multiple DNA segments (i.e. more than 30 kb separated the required genes).
 
 - Of the 3,323 actual transfers inferred all involved genes within 30 kb of each other (even the <3% that required more than 5 relevant genes)
 
