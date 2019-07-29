@@ -4,7 +4,7 @@ title: Studying metabolic horizontal gene transfer through ancestral state recon
 post_snippet: ...how are complex traits, those dependent on a large number of genes, transferred by HGT?
 ---
 
-#### [Pang and Lercher. 2019. Each of 3,323 metabolic innovations in the evolution of E. coli arose through the horizontal transfer of a single DNA segment. PNAS USA](https://www.pnas.org/content/116/1/187)
+#### [Pang and Lercher. 2019. Each of 3,323 metabolic innovations in the evolution of _E. coli_ arose through the horizontal transfer of a single DNA segment. PNAS USA](https://www.pnas.org/content/116/1/187)
 
 _Summarized from DalMUG group discussion and written by: [**Gavin Douglas**](http://www.gavindouglas.ca/)_
 
