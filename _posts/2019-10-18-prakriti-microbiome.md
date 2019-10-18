@@ -62,7 +62,7 @@ Pitta (P) – Fire (predominant) and water; hot, sharp, penetrating, volatile, o
 
 Kapha (K) – Water and earth; cool, moist, stable, heavy
 
-![Prakriti based classification of individuals](https://github.com/LangilleLab/DalMUG/tree/master/images/journal.pone.0185380.g001.PNG)
+![Prakriti based classification of individuals](/images/journal.pone.0185380.g001.PNG)
 
 ### Points of Interest
 - It was interesting to see that groupings of healthy individuals based on inherent physiological phenotyping would actually have differing gut microbiota
