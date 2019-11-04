@@ -24,7 +24,7 @@ response to the [“Waste Not, Want Not” paper](https://journals.plos.org/plos
 * The authors did a great job of summarizing many analyses and describing the limitations of their simulations (esp. when discussing the issue of which distributions are appropriate for microbiome sequencing data).
 * They clarify that rarefying data results in higher false negative rates, but not higher false positive rates as was previously described by McMurdie and Holmes. 
 * The authors actually base their argument regarding rarefying data on the same simulations as McMurdie and Holmes after adjusting how the validation was performed. Apparently low-depth samples were excluded from the rarefying validation in the 2014 paper and were evaluated against all samples, which capped the possible accuracy at 85%.
-* DA tools dramatically differ in terms of the numbers and intersect of which OTUs were identified as significant. This is disturbing, but agrees with similar validations we have run as well. It’s a shame that this issue still doesn’t seem to be widely understood and there still remains no clear consensus in the field for analyzing microbiome data.
+* DA tools dramatically differ in terms of the numbers and intersect of which OTUs were identified as significant. This is disturbing, but agrees with similar validations we have run as well. It’s a shame that this issue still doesn’t seem to be widely understood and there still isn't a clear consensus in the field for analyzing microbiome data.
 * ANCOM performs especially well based on their evaluations (especially in terms of the low false-positive rate).
 
 ### Points of Confusion
