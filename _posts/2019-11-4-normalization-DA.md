@@ -1,5 +1,5 @@
 ---
-title: Normalization and microbial differential abundance strategies depend upon data characteristics 
+title: Evaluating normalization and differential abundance approaches circa 2017
 post_snippet: ...this paper is an argument for the utility of rarefying data ... and a response to the “Waste Not, Want Not” paper
 published: true
 ---
