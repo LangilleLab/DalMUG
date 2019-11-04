@@ -25,7 +25,7 @@ response to the [“Waste Not, Want Not” paper](https://journals.plos.org/plos
 * They clarify that rarefying data results in higher false negative rates, but not higher false positive rates as was previously described by McMurdie and Holmes. 
 * The authors actually base their argument regarding rarefying data on the same simulations as McMurdie and Holmes after adjusting how the validation was performed. Apparently low-depth samples were excluded from the rarefying validation in the 2014 paper and were evaluated against all samples, which capped the possible accuracy at 85%.
 * DA tools dramatically differ in terms of the numbers and intersect of which OTUs were identified as significant. This is disturbing, but agrees with similar validations we have run as well. It’s a shame that this issue still doesn’t seem to be widely understood and there still isn't a clear consensus in the field for analyzing microbiome data.
-* ANCOM performs especially well based on their evaluations (especially in terms of the low false-positive rate).
+* ANCOM performs especially well based on their validations (especially in terms of the low false-positive rate).
 
 ### Points of Confusion
 * Figure 1 displays a proof-of-concept that rarefying to low depths (to 50 reads) can cause artifactual groupings if other samples are rarefied to higher depths (500 reads). Although we agree this makes sense in this extreme case we didn’t think it was realistic scenario, and it made us wonder whether there was much of an effect at higher read depths.
