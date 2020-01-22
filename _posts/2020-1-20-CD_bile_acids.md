@@ -19,11 +19,7 @@ acids are an important biomarker of CD. This study also sets the stage for inves
 between CD and the microbiome.
 
 ### Points of Interest
-- Interesting to see a range of clinical metrics distinguishing the patients over treatment:
-  - Platelet counts
-  - Weighted pediatric Crohn’s disease activity index
-  - Fecal calprotectin
-  - Erythrocyte sedimentation rate
+- Interesting to see a range of clinical metrics distinguishing the patients over treatment (e.g. erythrocyte sedimentation rate and platelet counts in addition to the weighted pediatric Crohn’s disease activity index).
 - Clear qualitative difference in proportion of secondary vs primary bile acids based on patient remission state
 - Assemblages identified by BioMico are a nice way of visualizing the taxonomic differences between primary and secondary bile acid samples… We need to try this out!
 - Useful to summarize Spearman correlations between taxa and bile acids by counts per phylum - makes interpretation much easier and makes the difference between 16S and metagenomics easy to spot
@@ -35,4 +31,4 @@ between CD and the microbiome.
 - We were unclear whether metagenomics-identified taxa were based on the standard MetaPhlan2 pipeline or not (once again interesting to see the low taxa count either way)
 - We were unclear why significant taxa were identified with Kruskal-Wallis tests after running BioMico - was this mainly a sanity check that BioMico was performing well?
 - No or almost no negative associations between bile acids and taxa were identified - we found this a little surprising, but could biologically make sense
-- Unclear how the taxonomic contributors of bsh and other bile acid processing genes were identified
+- It wasn't clear to us how the taxonomic contributors of _bsh_ and other bile acid processing genes were identified
