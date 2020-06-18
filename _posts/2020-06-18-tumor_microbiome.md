@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The human tumor microbiome is composed of tumor type–specific intracellular bacteria
 
 post_snippet: ...completed a comprehensive 16S rRNA gene survey of the microbiome of various tumor types (breast, lung, ovary, pancreas, melanoma, bone and brain).
