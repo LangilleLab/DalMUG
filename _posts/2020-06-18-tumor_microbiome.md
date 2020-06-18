@@ -20,7 +20,7 @@ Below are a few key points of interest and confusion that came up during our dis
 - Fig. 4B: It was interesting to that Streptophyta (i.e. likely plant chloroplasts) was identified in tumors.
 - Nice to see that predicted functions that were differentially abundant in lung and breast tumor subtypes seemed biologically plausible
 
-Points of confusion
+### Points of confusion
 - Fig. 3: Is there a rarefaction curve based on sequencing depth available?
 - Fig. 4B: Many species were filtered out using filtering techniques that have not been previously benchmarked.
 - Fig. 4D: It was unclear if the uncoloured circles represented species that were filtered out.
