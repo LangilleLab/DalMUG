@@ -6,9 +6,9 @@ post_snippet:  ...typical sample sizes used in microbiome studies might simply b
 published: true
 ---
 
-Rothschild et al. 2020. An atlas of robust microbiome associations with phenotypic traits based on large-scale cohorts from two continents. bioRxiv.
+[Rothschild et al. 2020. An atlas of robust microbiome associations with phenotypic traits based on large-scale cohorts from two continents. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.05.28.122325v1)
 
-This is a summary of our Dalhousie Microbiome User Group (DalMUG) journal club discussion of this paper written by Gavin Douglas. 
+_This is a summary of our Dalhousie Microbiome User Group (DalMUG) journal club discussion of this paper written by Gavin Douglas._
 
 ### Summary
 There are often conflicting results between studies investigating links between the microbiome and human traits. One long standing potential issue has been that the typical sample sizes used in microbiome studies might simply be too low to ensure robust results. Rothschild et al. investigated this question by performing shotgun metagenomic sequencing of the stool of ~34,000 individuals from Israel and the US. The gender, age, and various blood test measures (such as cholesterol levels and a type-II diabetes biomarker) was provided by participants. The authors showed consistent significant links (across populations!) between various aspects of the microbiome and the measured human traits. They also showed that the performance of identifying reproducible associations (and of generating predictive models) based on the microbiome drops off dramatically as the sample size decreases. We enjoyed reading this preprint and believe that the implications could be extremely important.
