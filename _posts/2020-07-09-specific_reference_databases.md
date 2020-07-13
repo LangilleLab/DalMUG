@@ -2,7 +2,7 @@
 
 published: true 
 title: The use of taxon-specific reference databases compromises metagenomic classification 
-post_snippet: ...by replacing the fungal database of HMS with 18 species of amphibians and reptiles (*i.e.* organisms not expected to be present in the human gut microbiome) and applying this to the human gut metagenome samples used in the previous paper, they are able to identify these species...
+post_snippet: ...by replacing the fungal database of HMS with 18 species of amphibians and reptiles (i.e. organisms not expected to be present in the human gut microbiome) and applying this to the human gut metagenome samples used in the previous paper, they are able to identify these species...
 
 --- 
 
