@@ -1,7 +1,6 @@
 ---
 published: true
 title: Link between gut microbiota and health outcomes in inulin-treated obese patients: Lessons from the Food4Gut multicenter randomized placebo-controlled trial
-
 post_snippet: ...both diets were effective at restricting energy intake and improving some metabolic outcomes, with the probiotic group showing additional metabolic benefits along with shifts in specific bacteria
 ---
 
