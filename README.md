@@ -10,9 +10,10 @@ title: INSERT_TEXT_HERE
 post_snippet: INSERT_TEXT_HERE
 ---
 ```
-
-At the top of the file (or you can replace ```published:true``` with ```published:false``` if you want to simply save it as a draft and wait to publish it later). For [example](
+For an example of how this would look like for an example post, see [here](
 https://raw.githubusercontent.com/LangilleLab/DalMUG/master/_posts/2017-10-27-Comparative-Metagenomics-of-Blastocystis.md).
+
+Note that you can replace ```published:true``` with ```published:false``` if you want to simply save it as a draft and wait to publish it later.
 
 The text following ```post_snippet``` is the preview of the post that will be shown on the ```Blog``` page under the post title.
 
