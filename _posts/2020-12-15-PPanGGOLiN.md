@@ -4,7 +4,7 @@ post_snippet:  ... difficult to visualize the overlap in strain genome contents 
 published: true
 ---
 
-[Gautreau et al. 2020. PPanGGOLin: Depicting diversity via a partitioned pangenome graph. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007732)
+[Gautreau et al. 2020. PPanGGOLiN: Depicting diversity via a partitioned pangenome graph. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007732)
 
 _This is a summary of our Dalhousie Microbiome User Group (DalMUG) journal club discussion of this paper written by [Gavin Douglas](http://www.gavindouglas.ca/)._
 
