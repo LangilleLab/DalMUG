@@ -1,11 +1,7 @@
-
 ---
 title: PPanGGOLiN - A tool for graphically summarizing pangenome diversity
-
 post_snippet:  ... difficult to visualize the overlap in strain genome contents when the number of genomes becomes large. PPanGGOLiN is a tool that addresses this problem...
-
 published: true
-
 ---
 
 [Gautreau et al. 2020. PPanGGOLin: Depicting diversity via a partitioned pangenome graph. PLOS Computational Biology.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007732)
