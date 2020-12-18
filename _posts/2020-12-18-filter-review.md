@@ -5,7 +5,7 @@ published: true
 ---
 
 This post is a review of a recent bioRxiv preprint:
-[Schloss 2020. Removal of rare amplicon sequence variants from 16S rRNA gene sequence surveys biases the interpretation of community structure data. bioRxiv](https://www.biorxiv.org/content/10.1101/2020.12.11.422279v1)
+[Schloss 2020. Removal of rare amplicon sequence variants from 16S rRNA gene sequence surveys biases the interpretation of community structure data. bioRxiv.](https://www.biorxiv.org/content/10.1101/2020.12.11.422279v1)
 
 
 This review was written by members of the Langille Lab (Dalhousie University) and was based on a journal club discussion.
