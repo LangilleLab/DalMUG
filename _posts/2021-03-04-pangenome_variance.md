@@ -1,7 +1,7 @@
 --- 
 
 title: Investigating the proportion of pangenome variance explained by phylogenetic inertia and the environment
-post_snippet:  ...used correlation-adjusted regression to determine the percentage of variance in each pangenome feature … overall the species’ environments explained a larger proportion of variance...
+post_snippet:  ... used correlation-adjusted regression to determine the percentage of variance in each pangenome feature … overall the species’ environments explained a larger proportion of variance ...
 published: true
 --- 
 
