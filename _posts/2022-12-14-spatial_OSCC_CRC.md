@@ -1,14 +1,14 @@
 --- 
-​
+
 published: true
 title: Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer
 post_snippet: …uses in-situ spatial technologies to characterize intratumoral bacteria the tumour microenvironment… …upregulation of inflammatory and cancer progression genes… …promote the detachment and invasion of single infected cancer cells…
-​
+
 --- 
 
 
 [Galeano Niño, J.L. *et al.* (2022 Nature): Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer.](https://www.nature.com/articles/s41586-022-05435-0#citeas) 
-​
+
 _This is a summary of our Dec 14th, 2022 DalMUG journal club discussion of this paper written by Monica Alvaro Fuss_ 
 
 ### Summary
