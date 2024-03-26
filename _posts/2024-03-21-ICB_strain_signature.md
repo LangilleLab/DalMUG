@@ -12,8 +12,6 @@ _This is a summary of our March 21st, 2024 DalMUG journal club discussion, writt
 
 ### Summary
 
-This paper 
-
 This study examines a strain-level gut microbiome signatures associated with immune checkpoint blockade (ICB) treatment response and its ability to predict both repsonse and progression-free survival. Evidence suggests that there is a relationship between a patient's gut microbiome composition and clinical response to ICB, but generalizing microbiome-based biomarkers across cohorts remains challenging. The authors performed deep shotgun metagenomic sequencing data on 106 fecal samples from patients with one of three different types of confirmed advanced rare solid tumours and to build a custom strain-specific reference genome. The authors report differences in alpha and beta diversity between response indexes, and identified 7 strains associated with a positive response and 15 strains associated with a negative response. They state this microbial signature generalizes across the three cancer types and across different cohorts around the world, but that they do not generalize well between different treatment approaches.
 
 Below are the key points that came up during our discussion.
@@ -24,6 +22,6 @@ Below are the key points that came up during our discussion.
 
 - We dicussed the clinical variables and why they did not contribute to the model, as well as why common measures such as PD-1 levels and tumour stage were not included. We also discussed the potential of alpha diversity measures and higher-level taxonomic groups as useful predictors. 
 
-- We discussed the use of strain-level microbiome analysis: taxonomic resolution is important for determining functional capacity, but may hamper the identification of generalizable signatures.
+- We discussed the use of strain-level microbiome analysis: taxonomic resolution is important for determining functional capacity, but may hamper the identification of generalizable microbial signatures.
 
 - We overall enjoyed the paper. We liked the machine learning workflow figure, as well as the cohort descriptions for the meta-analysis. We noted that the worst-performing cohort was also the one that used different DNA extraction kits. 
