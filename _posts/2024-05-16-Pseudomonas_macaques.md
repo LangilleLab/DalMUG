@@ -2,7 +2,7 @@
 
 published: true
 title: Biogeography of intestinal mucus-associated microbiome. Depletion of genus Pseudomonas is associated with depressive-like behaviors in female cynomolgus macaques
-post_snippet: ... alpha diversity could predict depressive-like behaviors ... _Pseudomonas_ spp. were positively associated with positive behaviors ... contributed to lipid metabolism pathways ...
+post_snippet: ... alpha diversity could predict depressive-like behaviors ... Pseudomonas spp. were positively associated with positive behaviors ... contributed to lipid metabolism pathways ...
 
 ---
 
