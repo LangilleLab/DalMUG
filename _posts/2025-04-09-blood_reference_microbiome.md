@@ -1,0 +1,32 @@
+--- 
+
+published: true 
+title: Human reference microbiome profiles of different body habitats in healthy individuals 
+post_snippet: ...The study concludes by suggesting that having these healthy reference intervals can be used in clinical settings... . We believe that a much larger sample size with more verification is required before these reference intervals could be applied in a clinical setting...
+
+--- 
+
+[Oh and Park (2025): Human reference microbiome profiles of different body habitats in healthy individuals.](https://doi.org/10.3389/fcimb.2025.1478136) 
+
+_This is a summary of our DalMUG journal club discussion of this paper written by Arash Ghasemi_ 
+
+### Summary
+
+Oh & Park 2025 aimed to establish reference intervals for alpha diversity metrics for stool, saliva, and blood samples from healthy participants (n=171). After establishing these metrics, they moved to investigating differentially abundant taxa (at the phylum and genus level) between the 3 body sites. They found a set of taxa that were differentially abundant between the distinct microbiomes and used the healthy participants for establishing reference intervals for the log FC of these taxa. Upon comparing to patients with Periodontal Disease (PD; n=10), they found that some of these patients fell outside of the log FC intervals established in for some taxa in healthy individuals. The study concludes by suggesting that having these healthy reference intervals (both alpha diversity metrics and log FC) can be used in clinical settings to aid in interpretation of quantitative results and potentially used as a screening tool for various diseases.
+
+Below are the key points that came up during our discussion. 
+
+### Points of Interest 
+
+- Many of the methods could use further clarification. For example, we were confused about how some of the samples were gathered and processed, how many samples were collected in total and how many samples remained after processing.
+- The authors rarely discuss the surrounding literature regarding the  oral, gut, and blood microbiomes. This is an important matter as the focus of the study is to establish reference intervals for healthy oral, gut, and blood microbiomes. Given that healthy oral and gut microbiomes have been thoroughly characterized in previous research (e.g., [HMP](https://www.hmpdacc.org/hmp/overview/)), a lack of comparison of their data to the surrounding literature is concerning. Additionally, considering that their data regarding blood microbiome is significantly different from the rapidly developing research around the blood microbiome (D’Aquila et al. 2021, Shah et al. 2021), we would have liked to see some discussion comparing their results to that of the of other published research.
+- We find the alpha diversity findings to be particularly striking. Oh & Park find that alpha diversity follows the pattern blood > saliva > stool. The gut microbiome is typically found to be more diverse than the salivary microbiome (e.g. within the HMP project), with the blood microbiome remaining a relatively contentious topic due to its typically low diversity. We would have liked to see much more discussion surrounding this due to how different the results obtained by Oh & Park are than the published characterisations of these microbiomes that we are familiar with.
+- Although they establish an interesting model of reference intervals for differential abundance of taxa between body sites in healthy individuals vs disease states, we feel that they overstate the importance and underestimate the limitations of the methods used to attain these results. They discuss that ANCOM-BC is sensitive to low abundance taxa and that some significant results of this analysis may be false positives but fail to provide an analysis or figure that would help explain if any of the differentially abundant taxa they found could be due to low abundance.
+- Oh & Park only include 171 healthy participants and 10 participants that are not healthy. We believe that a much larger sample size with more verification is required before these reference intervals could be applied in a clinical setting. It is unclear why the authors did not attempt to integrate their results with other large, publicly available datasets (at least for oral and gut microbiomes); doing so would have made their results much more generalizable. Without this, we believe that using these reference intervals in a clinical setting would be irresponsible. 
+- We applaud the authors for making their metagenomic data and metadata public, but we were unfortunately unable to replicate their results using very similar methods. We used Deblur instead of DADA2 for denoising and Greengenes instead of SILVA for taxonomic classification. Neither of these changes would significantly impact the final results. We also removed archaea from our analysis, but given the low abundance of archaea in these microbiomes this is also unlikely to have a large impact on the results. Interestingly, where Oh & Park find that alpha diversity follows the pattern blood > saliva > stool - which is inconsistent with previous research - we find it to instead follow the pattern saliva > blood > stool. Additionally, Oh & Park 2025 found that Mycoplasmatota was differentially abundant between different microbiomes whereas we didn’t detect this phylum in our analysis.
+
+#### References
+
+1.	Oh, S., & Park, K. U. (2025). Human reference microbiome profiles of different body habitats in healthy individuals. Frontiers in Cellular and Infection Microbiology, 15, 1478136-. https://doi.org/10.3389/fcimb.2025.1478136
+2.	D’Aquila, P., Giacconi, R., Malavolta, M., Piacenza, F., Bürkle, A., Villanueva, M. M., Dollé, M. E. T., Jansen, E., Grune, T., Gonos, E. S., Franceschi, C., Capri, M., Grubeck-Loebenstein, B., Sikora, E., Toussaint, O., Debacq-Chainiaux, F., Hervonen, A., Hurme, M., Slagboom, P. E., … Bellizzi, D. (2021). Microbiome in Blood Samples From the General Population Recruited in the MARK-AGE Project: A Pilot Study. Frontiers in Microbiology, 12, 707515–707515. https://doi.org/10.3389/fmicb.2021.707515
+3.	Shah, N. B., Nigwekar, S. U., Kalim, S., Lelouvier, B., Servant, F., Dalal, M., Krinsky, S., Fasano, A., Tolkoff-Rubin, N., & Allegretti, A. S. (2021). The Gut and Blood Microbiome in IgA Nephropathy and Healthy Controls. Kidney360, 2(8), 1261–1274. https://doi.org/10.34067/KID.0000132021 
