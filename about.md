@@ -28,8 +28,8 @@ The DalMUG mailing list is the primary way to get announcments about upcoming me
 
 ### Funding and Support
 
-DalMUG is organized by [Dr. Morgan Langille](http://morganlangille.com/).
+DalMUG is organized by the [Langille Lab](http://morganlangille.com/).
 
-If you have any questions about DalMUG or are having trouble joining the mailing list you can contact [morgan.langille@dal.ca](mailto:morgan.langille@dal.ca)
+If you have any questions about DalMUG you can contact [morgan.langille@dal.ca](mailto:morgan.langille@dal.ca)
 
 
