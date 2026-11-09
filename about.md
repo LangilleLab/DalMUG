@@ -13,18 +13,7 @@ DalMUG includes a journal club every other week as well as research seminars eve
 
 The DalMUG mailing list is the primary way to get announcments about upcoming meetings.
 
-<form method="post" action="https://gaggle.email/join/dalmug@gaggle.email">
-    <div>
-        <input name="name" type="text" placeholder="Name">
-    </div>
-    <div>
-        <input name="email" type="email" placeholder="Email Address" required>
-    </div>
-    <div>
-        <button type="submit">Join Group</button>
-    </div>
-</form>
-
+Join the mailing list: https://gaggle.email/join/dalmug@gaggle.email
 
 ### Funding and Support
 
